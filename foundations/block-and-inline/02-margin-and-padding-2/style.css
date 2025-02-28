@@ -20,6 +20,7 @@ body {
 .content {
   background: #e3f4ff;
   padding: 16px 8px;
+  margin: 0px 8px;
 }
 
 .button-container {
@@ -38,4 +39,5 @@ button {
   text-align: center;
   justify-content: center;
   align-items: center;
+  margin: auto;
 }
