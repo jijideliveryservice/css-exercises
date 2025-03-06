@@ -30,7 +30,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 8px;
+  
 }
 
 .profile-image {
@@ -60,6 +60,7 @@ a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
+  margin: 8px;
 }
 
 ul {
@@ -68,5 +69,5 @@ ul {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 8px;
+ 
 }
