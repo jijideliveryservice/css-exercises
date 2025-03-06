@@ -6,7 +6,7 @@
 }
 
 .left-links {
-  display:flex;
+  display: flex;
   flex-direction: row;
 }
 
@@ -24,7 +24,7 @@ ul {
 }
 
 .right-links {
-  display:flex;
+  display: flex;
   flex-direction: row;
 }
 
