@@ -3,7 +3,7 @@
   background: papayawhip;
   display: flex;
   flex-direction: row;
-  flex: auto;
+  justify-content: space-between;
 
 }
 
@@ -21,7 +21,7 @@ ul {
   list-style-type: none;
   display: flex;
   flex-direction: row;
-  flex: auto;
+  
 }
 
 
