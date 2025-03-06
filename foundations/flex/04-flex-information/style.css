@@ -9,6 +9,11 @@ body {
   align-items: center;
 }
 
+.first-plant, .second-plant, .third-plant, .fourth-plant {
+  display: flex;
+  
+}
+
 img {
   width: 100px;
   height: 100px;
