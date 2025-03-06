@@ -23,7 +23,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 8px;
+
 }
 
 .right-links{
@@ -31,7 +31,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 8px;
+
 }
 
 .profile-image {
