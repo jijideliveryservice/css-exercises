@@ -2,6 +2,13 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.plant-list {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
 img {
   width: 100px;
   height: 100px;
