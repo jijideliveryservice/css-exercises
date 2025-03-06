@@ -18,20 +18,13 @@ body {
   padding: 8px;
 }
 
-.left-links{
+.left-links .right-links{
   display: flex;
   flex-direction: row;
-
   align-items: center;
+  gap: 16px;
 }
 
-.right-links{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-
-}
 
 .profile-image {
   background: rebeccapurple;
@@ -66,7 +59,8 @@ ul {
   list-style-type: none;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   align-items: center;
-  margin: 0 16;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
 }
