@@ -8,7 +8,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 52px;
+  gap: 52px;
 }
 
 .first-plant, .second-plant, .third-plant, .fourth-plant {
@@ -30,6 +30,8 @@ img {
   justify-content: center;
   align-items: center;
 }
+
+
 
 /* do not edit this footer */
 .footer {
