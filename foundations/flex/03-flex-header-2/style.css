@@ -21,8 +21,8 @@ body {
 .left-links{
   display: flex;
   flex-direction: row;
+
   align-items: center;
-  padding: 16px;
 }
 
 .right-links{
@@ -68,5 +68,5 @@ ul {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
- 
+  margin: 0 16;
 }
