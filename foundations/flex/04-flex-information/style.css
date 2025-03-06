@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  margin: 32px;
 }
 
 .plant-list {
@@ -7,12 +8,14 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  margin: 52px;
 }
 
 .first-plant, .second-plant, .third-plant, .fourth-plant {
   display: flex;
   align-items: center;
   flex-direction: column;
+  text-align: center;
 }
 
 img {
