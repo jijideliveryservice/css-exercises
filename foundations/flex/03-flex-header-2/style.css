@@ -18,10 +18,11 @@ body {
   padding: 8px;
 }
 
-.left-links .right-links{
+.left-links, .right-links{
   display: flex;
   align-items: center;
   gap: 16px;
+  flex-direction: row;
 }
 
 
