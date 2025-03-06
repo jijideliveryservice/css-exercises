@@ -5,7 +5,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-
+  padding: 8px;
 }
 
 
@@ -15,8 +15,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  display: flex;
-  justify-content: center;
 }
 
 ul {
@@ -34,5 +32,6 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+  margin: 8px;
 }
 
