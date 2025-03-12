@@ -63,7 +63,7 @@ body {
   width: 24px;
   display: flex;
   align-items: center;
-  justify-content: right;
+  justify-content: center;
   border: 1px solid #eee;
   padding: 0;
 }
