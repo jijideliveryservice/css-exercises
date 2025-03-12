@@ -15,6 +15,7 @@ body {
 
 .first-plant, .second-plant, .third-plant, .fourth-plant {
   max-width: 200px;
+  text-align: center;
 }
 
 img {
