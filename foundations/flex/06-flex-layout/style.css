@@ -16,7 +16,7 @@ body {
 .left-links, .right-links {
   display: flex;
   flex-direction: row;
-  justy-content: space-between;
+  justify-content: space-between;
 }
 
 img {
