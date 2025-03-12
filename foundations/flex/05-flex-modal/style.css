@@ -26,6 +26,11 @@ body {
   padding: 16px;
 }
 
+.section-two {
+  display: flex;
+  flex-direction: column;
+}
+
 .title-button {
   display:flex;
   flex-direction: row;
