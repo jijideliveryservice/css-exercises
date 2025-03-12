@@ -1,6 +1,7 @@
 body {
+  display:flex;
   font-family: 'Courier New', Courier, monospace;
-  padding: 32px;
+  gap: 32px;
 }
 
 .plant-list {
