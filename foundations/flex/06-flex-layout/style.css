@@ -13,13 +13,6 @@ body {
   justify-content: space-between;
 }
 
-.left-links, .right-links {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-
-}
-
 
 
 img {
