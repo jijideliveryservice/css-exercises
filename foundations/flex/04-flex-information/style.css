@@ -15,7 +15,6 @@ body {
 
 .first-plant, .second-plant, .third-plant, .fourth-plant {
   display: flex;
-  align-items: center;
   flex-direction: column;
   text-align: center;
   flex-basis: 200px;
