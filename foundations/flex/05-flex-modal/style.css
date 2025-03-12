@@ -29,6 +29,7 @@ body {
 .first-row {
   display: flex;
   flex-direction: row;
+  flex: auto;
 }
 
 .icon {
