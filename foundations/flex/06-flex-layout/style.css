@@ -11,14 +11,12 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-
 }
 
 ul {
-  display:flex;
-  flex-direction: row;
-  justify-content: space between;
+  gap: 16px;
 }
+
 
 img {
   width: 600px;
