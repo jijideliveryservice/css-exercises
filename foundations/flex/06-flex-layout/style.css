@@ -7,10 +7,11 @@ body {
   font-family: Roboto, sans-serif;
 }
 
-.left-links, .right-links {
+ul{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  gap: 16px;
 }
 
 img {
