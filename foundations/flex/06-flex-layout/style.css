@@ -12,6 +12,13 @@ ul{
   gap: 16px;
 }
 
+.header, .footer {
+  display: flex;
+  flex-direction: row;
+}
+
+
+
 img {
   width: 600px;
 }
