@@ -13,11 +13,6 @@ body {
   justify-content: space-between;
 }
 
-ul {
-  gap: 16px;
-}
-
-
 img {
   width: 600px;
 }
