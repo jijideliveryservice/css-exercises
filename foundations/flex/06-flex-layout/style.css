@@ -10,17 +10,13 @@ body {
 ul{
   display: flex;
   gap: 16px;
+  list-style: none;
 }
 
 .header, .footer {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-}
-
-li {
-  text-decoration: none;
-  
 }
 
 
