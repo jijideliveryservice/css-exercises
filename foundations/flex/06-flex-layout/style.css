@@ -5,6 +5,13 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+
 }
 
 ul{
