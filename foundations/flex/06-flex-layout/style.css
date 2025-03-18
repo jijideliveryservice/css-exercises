@@ -5,20 +5,30 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
-
+  display: flex;
+  flex-direction: column;
 }
 
 .content {
   display: flex;
   flex-direction: column;
   align-items: center;
-
+  justify-content: center;
+  padding: 24px 0px 24px 0px;
+  flex: 1;
+  height: 100%;
 }
 
-ul{
+ul {
   display: flex;
   gap: 16px;
   list-style: none;
+  padding: 0px 24px 0px 24px;
+}
+
+li a {
+  text-decoration: none;
+  color: gray;
 }
 
 .header, .footer {
@@ -44,4 +54,9 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
+}
+
+.footer {
+  background-color: #eeeeee;
+  bottom: 0px;
 }
